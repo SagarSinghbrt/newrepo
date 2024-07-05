@@ -1,1 +1,2 @@
 This is init form git
+This is a new feature
